@@ -24,7 +24,7 @@ Setup cronjob to run controller.
 Example:
 
 $scrape1 = new ScrapeThis;
-$scrape1->doThis('http://scrapethis.com/index.php', 'images/that.jpg', 'mas', 'http://timfuck.com/');
+$scrape1->doThis('http://scrapethis.com/index.php', 'images/that.jpg', 'mas', 'http://domain.com/');
 
 or aebn scape with out the base_url set because the url is compleate
 
